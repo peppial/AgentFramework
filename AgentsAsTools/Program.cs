@@ -46,7 +46,7 @@ AIAgent delegationAgent = client
     .GetChatClient(chatDeploymentName)
     .CreateAIAgent(
         name: "DelegateAgent",
-        instructions: "You are a Delegator of String and Text Analyzer Tasks. Never does such work yourself. Delegate to appropriate agents.",
+        instructions: "You are a Delegator of String and Text Analyzer Tasks.",
         tools:
         [
             stringAgent.AsAIFunction(new AIFunctionFactoryOptions
