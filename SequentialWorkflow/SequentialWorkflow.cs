@@ -1,5 +1,4 @@
 // C# Script file for .NET 10 - Furniture Quote Workflow
-// Run with: dotnet script FurnitureQuoteWorkflow.csx
 
 #:package  Microsoft.Extensions.AI@9.9.1
 #:package System.ClientModel@1.6.1.0
