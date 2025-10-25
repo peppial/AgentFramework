@@ -30,3 +30,4 @@ bld/
 *.userosscache
 *.sln.docstates
 
+.env
