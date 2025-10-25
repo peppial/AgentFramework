@@ -1,5 +1,5 @@
 // C# Script file for .NET 10 - Furniture Quote Workflow
-// based on https://learn.microsoft.com/en-us/dotnet/ai/tutorials/sequential-workflows
+// based on https://github.com/microsoft/Agent-Framework-Samples/blob/main/07.Workflow/code_samples/dotNET/02.dotnet-agent-framework-workflow-ghmodel-sequential.ipynb
 
 #:package  Microsoft.Extensions.AI@9.9.1
 #:package System.ClientModel@1.6.1.0
