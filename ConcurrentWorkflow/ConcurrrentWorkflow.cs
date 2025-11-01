@@ -1,4 +1,3 @@
-// C# Script file for .NET 10 - Furniture Quote Workflow
 // based on https://github.com/microsoft/Agent-Framework-Samples/blob/main/07.Workflow/code_samples/dotNET/03.dotnet-agent-framework-workflow-ghmodel-concurrent.ipynb
 
 #:package  Microsoft.Extensions.AI@9.9.1
