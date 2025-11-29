@@ -3,7 +3,6 @@
 #:package  Microsoft.Extensions.AI@9.9.1
 #:package System.ClientModel@1.6.1.0
 #:package Azure.Identity@1.15.0
-#:package System.Linq.Async@6.0.3
 #:package OpenTelemetry.Api@1.12.0
 #:package Microsoft.Agents.AI.Workflows@1.0.0-preview.251001.3
 #:package Microsoft.Agents.AI.OpenAI@1.0.0-preview.251001.3
